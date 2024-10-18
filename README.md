@@ -1,7 +1,7 @@
 
 # 🖼️ Awesome Icons
 
-Welcome to the ultimate list of open-source icon libraries! Whether you're looking for SVG, font-based, or vector icons, we’ve got you covered.
+A curated collection of open-source icon libraries, design resources, tools, and software for developers and designers. Discover a variety of resources that cater to diverse needs in UI/UX design, branding, and much more.🌟
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/Jay-Karia/awesome-icons?style=social)
 
